@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA - Modern E-Commerce Platform",
+  "description": "Professional e-commerce platform inspired by ShopKart with product catalogs, shopping cart, live order tracking, customer authentication, and full admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
